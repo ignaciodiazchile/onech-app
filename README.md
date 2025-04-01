@@ -1,2 +1,4 @@
-# onech-app
-Aplicación de transporte para Chile
+cd onech-app
+git add .
+git commit -m "Inicialización del proyecto Onech"
+git push origin main
